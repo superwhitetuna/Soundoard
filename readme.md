@@ -6,6 +6,6 @@
 
 # Play once through default audio input device.
 
-    1. Write microphone audio to VB Audio Cable
-    2. Change output device to VB Audio Cable
-    3. Predetermined sound (Numpad 1 = tunamayo.wav) will play through output device.
+    1. Change output device to VB Audio Cable
+    2. Predetermined sound (Numpad 1 = tunamayo.wav) will play through output device.
+    3. Write microphone audio to VB Audio Cable
